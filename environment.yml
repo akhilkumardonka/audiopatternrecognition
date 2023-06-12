@@ -19,4 +19,4 @@ dependencies:
   - sphinx_rtd_theme=0.5.2
   - pip
   - pip:
-     - nbsphinx=0.9.2
+     - nbsphinx==0.9.2
