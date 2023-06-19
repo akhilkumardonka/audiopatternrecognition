@@ -1,4 +1,4 @@
-name: coderefinery
+name: project
 channels:
   - conda-forge
   - defaults
